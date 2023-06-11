@@ -1,0 +1,13 @@
+#root {
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    color: purple;
+    background-color: antiquewhite;
+    
+}
+
+.slide {
+    size: 50px;
+}
